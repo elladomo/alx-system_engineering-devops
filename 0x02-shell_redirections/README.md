@@ -1,0 +1,1 @@
+All Shell redirections scripts for this project will be stored here.
